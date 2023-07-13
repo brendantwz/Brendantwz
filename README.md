@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brendan</h1>
-<h3 align="center">An Aspiring Web Developer driving toward a career change. I code and love efficiency-driven fun mini-projects!</h3>
+<h3 align="center">An Aspiring Web Developer driving toward a career change. <br> I code and love efficiency-driven fun mini-projects!</h3>
 
 - 🔭 I’m currently working on [Digital Portfolio](https://brendantwz.github.io/digital-portfolio)
 
