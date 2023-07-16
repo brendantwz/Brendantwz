@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brendan</h1>
-<h3 align="center">An Aspiring Web Developer driving toward a career change. <br> I code and love efficiency-driven fun mini-projects!</h3>
+<h3 align="center">An Aspiring Web Developer driving toward a career change. <br> I code and love efficiency-driven fun mini-projects (involving web too)!</h3>
+
+<p align="center">Joined Github 6 years out of curiosity. Actively working within 2023 <br>
+So far there isn't anything exciting but baby step it is! See you around </p>
 
 - 🔭 I’m currently working on [Digital Portfolio](https://brendantwz.github.io/digital-portfolio)
 
