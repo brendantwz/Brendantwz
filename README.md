@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Brendan</h1>
-<h3 align="center">An Aspiring Web Developer driving toward a career change. <br> I code and love efficiency-driven fun mini-projects (involving web too)!</h3>
+<h3 align="center">I am an Engineer turned Web Developer <br> I have passion for making ideas turned into reality. Check out some of my projects in the pinned!</h3>
 
-<p align="center">Joined Github 6 years out of curiosity. Actively working within 2023 <br>
+<p align="center">Joined Github 6 years out of curiosity. Actively working from 2023 <br>
 So far there isn't anything exciting but baby step it is! See you around </p>
 
 - 🔭 I’m currently working on
-  - [Digital Portfolio](https://brendantwz.github.io/digital-portfolio) (Upgrading phase)
-  - SimplyPress-blogpost (Revision Phase)
   - MakanApa (Planning Phase)
+  - Grappling Scoreboard (Planning Phase)
+  - QR Code Tracking Payment (Planning Phase)
 
 - 🌱 I’m currently learning **The Complete 2023 Web Development Bootcamp via Udemy**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://brendantwz.github.io/digital-portfolio/public/my_portfolio.html) -->  <b>not the latest in 2023 Dec</b> 
+- 👨‍💻 All of my projects are available at [My Projects](https://brendantwz.com/projects.html) -->  <b>not the latest in 2023 Dec</b> 
 
-- 📄 Know about my experiences [My Resume](https://brendantwz.github.io/digital-portfolio/public/My_online_resume.html) -->  <b>not the latest in 2023 Dec</b> 
+- 📄 Know about my experiences [My Resume](https://brendantwz.com/resume.html) -->  <b>not the latest in 2023 Dec</b> 
 
 - ⚡ Fun fact **I love Brazillian Jiu-Jitsu (particularly No-gi submission grappling)**
 
