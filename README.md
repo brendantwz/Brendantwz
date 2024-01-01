@@ -11,9 +11,9 @@ So far there isn't anything exciting but baby step it is! See you around </p>
 
 - 🌱 I’m currently learning **The Complete 2023 Web Development Bootcamp via Udemy**
 
-- 👨‍💻 All of my projects are available at [My Projects](https://brendantwz.com/projects.html) -->  <b>not the latest in 2023 Dec</b> 
+- 👨‍💻 All of my projects are available at [My Projects](https://brendantwz.com/projects.html)
 
-- 📄 Know about my experiences [My Resume](https://brendantwz.com/resume.html) -->  <b>not the latest in 2023 Dec</b> 
+- 📄 Know about my experiences [My Resume](https://brendantwz.com/resume.html)
 
 - ⚡ Fun fact **I love Brazillian Jiu-Jitsu (particularly No-gi submission grappling)**
 
