@@ -5,10 +5,9 @@
 So far there isn't anything exciting but baby step it is! See you around </p>
 
 - 🔭 I’m currently working on
-  - QRFreg (Enhancement Phase)
-  - MakanApa (Planning Phase)
-  - Grappling Scoreboard (Planning Phase)
-  - QR Code Tracking Payment (Planning Phase)
+  - Business Web Replica (Execution Phase)
+  - Jiu-jitsu Technique Library Tracker (Planning Phase - CRUD)
+  - QR Code Tracking Payment (Planning Phase - CRUD)
 
 - 🌱 I’m currently learning **The Complete 2023 Web Development Bootcamp via Udemy**
 
