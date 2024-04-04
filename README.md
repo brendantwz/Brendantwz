@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brendan</h1>
-<h3 align="center">I am an Engineer turned Web Developer <br> I have passion for making ideas turned into reality. Check out some of my projects in the pinned!</h3>
+<h3 align="center">I am an Engineer with Web Developer Capabilities<br> I have passion for making ideas turned into reality. Check out some of my projects in the pinned!</h3>
 
 <p align="center">Joined Github 6 years out of curiosity. Actively working from 2023 <br>
 So far there isn't anything exciting but baby step it is! See you around </p>
@@ -9,7 +9,7 @@ So far there isn't anything exciting but baby step it is! See you around </p>
   - Jiu-jitsu Technique Library Tracker (Planning Phase - CRUD)
   - QR Code Tracking Payment (Planning Phase - CRUD)
 
-- 🌱 I’m currently learning **The Complete 2023 Web Development Bootcamp via Udemy**
+- 🌱 I’m currently learning **to leverage on RESTful Public API**
 
 - 👨‍💻 All of my projects are available at [My Projects](https://brendantwz.com/projects.html)
 
