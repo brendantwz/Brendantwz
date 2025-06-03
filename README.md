@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brendan</h1>
 <h3 align="center">Once a Design Engineer turned Generalist Web Developer <br> I have passion for making ideas turned into reality. Full passion to reduce my working hours w/ automation!</h3>
 
-<p align="center">Joined Github 6 years out of curiosity. Actively working from 2023 <br>
-So far there isn't anything exciting but baby step it is! See you around </p>
+<p align="center">Actively working from 2023<br>
 
 - 🔭 I’m currently working on
   - AI Automation (specifically Make & n8n)
