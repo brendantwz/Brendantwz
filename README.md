@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brendan</h1>
-<h3 align="center">Once a Design Engineer turned Generalist Web Developer <br> I have passion for making ideas turned into reality. Full passion to reduce my working hours w/ automation!</h3>
+<h3 align="center">Once a Design Engineer turned Generalist Automation-ish guy that are tired of manual work</h3>
 
 <p align="center">Actively working from 2023<br>
 
 - 🔭 I’m currently working on
   - AI Automation (specifically Make & n8n)
-
-- 🌱 I’m currently learning **AI Automation (I'm tired)**
-
-- 👨‍💻 All of my projects are available at [My Projects](https://brendantwz.com/projects.html)
-
-- 📄 Know about my experiences [My Resume](https://brendantwz.com/resume.html)
+  - Oh I write blogs too (for fun)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
